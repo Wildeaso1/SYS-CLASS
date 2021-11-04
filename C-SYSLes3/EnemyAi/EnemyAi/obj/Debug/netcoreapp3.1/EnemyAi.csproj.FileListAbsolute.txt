@@ -1,0 +1,13 @@
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\bin\Debug\netcoreapp3.1\EnemyAi.exe
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\bin\Debug\netcoreapp3.1\EnemyAi.deps.json
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\bin\Debug\netcoreapp3.1\EnemyAi.runtimeconfig.json
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\bin\Debug\netcoreapp3.1\EnemyAi.runtimeconfig.dev.json
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\bin\Debug\netcoreapp3.1\EnemyAi.dll
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\bin\Debug\netcoreapp3.1\EnemyAi.pdb
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\obj\Debug\netcoreapp3.1\EnemyAi.csprojAssemblyReference.cache
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\obj\Debug\netcoreapp3.1\EnemyAi.AssemblyInfoInputs.cache
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\obj\Debug\netcoreapp3.1\EnemyAi.AssemblyInfo.cs
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\obj\Debug\netcoreapp3.1\EnemyAi.csproj.CoreCompileInputs.cache
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\obj\Debug\netcoreapp3.1\EnemyAi.dll
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\obj\Debug\netcoreapp3.1\EnemyAi.pdb
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 1 (Tower Defense)\SYS\C# Stuff\C-SYSLes3\C-SYSLes3\EnemyAi\EnemyAi\obj\Debug\netcoreapp3.1\EnemyAi.genruntimeconfig.cache
